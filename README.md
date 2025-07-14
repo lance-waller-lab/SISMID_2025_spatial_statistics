@@ -54,6 +54,8 @@ In general, you will need to
 
 [Waller, L. and Gotway, C. (2004). Applied Spatial Statistics for Public Health Data. New York, John Wiley and Sons.](https://onlinelibrary-wiley-com.proxy.library.emory.edu/doi/book/10.1002/0471662682)
 
+[Analyzing US Census Data: Methods, Maps, and Models in R.](https://walker-data.com/census-r/index.html)
+
 [Geocomputation with R](https://r.geocompx.org/index.html)
 
 [Spatial Data Science](https://r-spatial.org/book/)
