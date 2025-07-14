@@ -8,8 +8,6 @@
 Welcome to the 2025 SISMID course on Spatial Statistics for Epidemiology and Public Health! 
 Spatial methods are now used in many disciplines and play an important role in epidemiology and public health. This module gives an introduction to spatial methods. In particular, we will present methods for assessment of clustering, cluster detection, spatial regression, small area estimation, and disease mapping. Methods will be described for both point data (in which cases and non-cases (or a sample thereof) have an associated point location) and count data (in which the numbers of cases and non-cases in a set of geographical areas are available).
 
-An introduction to Geographic Information Systems (GIS) will be provided. The important extension to space-time analysis will be described, which is crucial for the analysis of infectious disease data with a spatial component.
-
 Many examples will be presented, with analysis carried out in the R programming environment.
 
 ## Prerequisites
