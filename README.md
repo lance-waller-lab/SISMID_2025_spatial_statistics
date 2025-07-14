@@ -16,7 +16,7 @@ This module assumes knowledge of the material in Module 1: Probability and Stati
 
 ## Installing R and RStudio
 
-This SISMID module exclusively uses R. We recommend R 4.0 and above. You can download a recent version [here](https://www.r-project.org/).
+This SISMID module exclusively uses R. We recommend R 4.5 and above. You can download a recent version [here](https://www.r-project.org/).
 
 We also recommend using RStudio as the main GUI interface. You can install the free version [here](https://posit.co/download/rstudio-desktop/). 
 
